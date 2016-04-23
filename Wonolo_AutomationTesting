@@ -8,13 +8,13 @@
 <body>
 <table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
 <tr><td><b>Test Suite</b></td></tr>
-<tr><td><a href="Login_Successfully">Login_Successfully</a></td></tr>
-<tr><td><a href="LogOut_successfully">LogOut_successfully</a></td></tr>
-<tr><td><a href="LogIn_WrongPwd">LogIn_WrongPwd</a></td></tr>
-<tr><td><a href="LogIn_NotExistEmail">LogIn_NotExistEmail</a></td></tr>
-<tr><td><a href="LogIn_LeftEmailBlank">LogIn_LeftEmailBlank</a></td></tr>
-<tr><td><a href="ForgotPwd_Successfully">ForgotPwd_Successfully</a></td></tr>
-<tr><td><a href="ForgotPwd_NotExistEmail">ForgotPwd_NotExistEmail</a></td></tr>
+<tr><td><a href="Login_Successfully">Cases/Login_Successfully</a></td></tr>
+<tr><td><a href="LogOut_successfully">Cases/LogOut_successfully</a></td></tr>
+<tr><td><a href="LogIn_WrongPwd">Cases/LogIn_WrongPwd</a></td></tr>
+<tr><td><a href="LogIn_NotExistEmail">Cases/LogIn_NotExistEmail</a></td></tr>
+<tr><td><a href="LogIn_LeftEmailBlank">Cases/LogIn_LeftEmailBlank</a></td></tr>
+<tr><td><a href="ForgotPwd_Successfully">Cases/ForgotPwd_Successfully</a></td></tr>
+<tr><td><a href="ForgotPwd_NotExistEmail">Cases/ForgotPwd_NotExistEmail</a></td></tr>
 </tbody></table>
 </body>
 </html>
